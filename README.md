@@ -71,6 +71,3 @@ python main.py
 
 This project is for educational purposes only.
 
----
-
-หากต้องการให้เพิ่ม badge, GIF สาธิต, หรือขั้นตอนใช้งานเชิงภาพก็แจ้งได้เลยครับ
